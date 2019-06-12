@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+.no-padding {
+  padding: 0;
+}
+/* .icon {
+  float: right;
+} */
+.icon:hover {
+  cursor: pointer;
+}
+.icon-trash {
+  float: right;
+}
+.icon-check {
+  float: left;
+}
